@@ -6,7 +6,7 @@ using GoogleMobileAds.Common; // AppState
 
 
 //[AddComponentMenu("GoogleMobileAds/Samples/AdController")]
-public class Admob : MonoBehaviour
+public class AdMob : MonoBehaviour
 {
 
     [SerializeField] private bool isTestMode = true;
